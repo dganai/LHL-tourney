@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Match() {
+function Match(prop) {
 	return (
 		<article className="Match">
 			<h1>
