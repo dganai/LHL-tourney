@@ -3,7 +3,6 @@ import Player from './Player';
 import matchData from '../data/matchData';
 import playerData from '../data/playerData';
 import { preparePlayerData, addWinsToPlayers } from '../helpers/playerHelpers';
-import playerData from '../data/playerData';
 
 function PlayerList(prop) {
 	const playerDataArray = preparePlayerData(playerData);
