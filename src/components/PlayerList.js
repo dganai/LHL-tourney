@@ -8,7 +8,7 @@ function PlayerList(props) {
 	return (
 		<section className="PlayerList">
 			<h1>Current participating players</h1>
-			{parsedPlayerList}{' '}
+			{parsedPlayerList}
 		</section>
 	);
 }
